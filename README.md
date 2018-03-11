@@ -31,4 +31,5 @@ Currently this plugin has been tested with (and has the UUIDs for):
 
 - Xcode 9.2 (9C40b)
 
+[releases]: https://github.com/keith/HideXcodeVariablesView/releases
 [unsign]: https://github.com/XVimProject/XVim/blob/master/INSTALL_Xcode8.md

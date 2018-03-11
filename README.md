@@ -1,5 +1,9 @@
 # HideXcodeVariablesView
 
+Don't use this, use
+[behaviors](http://mattorb.com/xcode-behaviors-for-fun-and-profit/)
+instead.
+
 HideXcodeVariablesView is an "old style" Xcode plugin for defaulting to
 showing only the console view, not the variables view, in the debug
 area at the bottom of the window.
